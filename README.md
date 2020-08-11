@@ -6,4 +6,4 @@ CHECK OUTPUT BY CLICKING BELOW LINK
 
 
 https://github.com/payush624/gmaps/blob/master/gmap1.png
-![](images/gmap1.png)
+
